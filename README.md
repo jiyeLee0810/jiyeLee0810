@@ -2,6 +2,7 @@
 
 - I'm a 3B Computer Engineering student in University of Waterloo! 🦆
 - I'm currently a Research Intern in Computer Systems Laboratory under Dr.Ahn in Korea University! 💻
+- My main interest these days are GPU computing! 💡  
 - I'm currently looking for a Fall 2025 Internship opportunites! 🌱
 - Feel free to reach out to me at j933lee@uwaterloo.ca! 💌
 
